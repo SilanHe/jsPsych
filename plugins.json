@@ -1,0 +1,9 @@
+[
+  "jspsych-html-keyboard-response.js",
+  "jspsych-image-keyboard-response.js",
+  "jspsych-html-button-response.js",
+  "custom/my-jspsych-html-button-response.js",
+  "custom/my-jspsych-fullscreen.js",
+  "custom/my-jspsych-image-keyboard-response.js",
+  "custom/my-jspsych-html-submit-form.js"
+]
